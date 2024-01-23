@@ -1,6 +1,6 @@
 {
   "name": "@yeanzhi/imagemin-jpegtran",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "description": "jpegtran imagemin plugin",
   "license": "MIT",
   "repository": "imagemin/imagemin-jpegtran",
@@ -43,7 +43,7 @@
   "dependencies": {
     "exec-buffer": "^3.0.0",
     "is-jpg": "^2.0.0",
-    "@yeanzhi/jpegtran-bin": "^4.0.0"
+    "@yeanzhi/jpegtran-bin": "^4.0.1"
   },
   "devDependencies": {
     "ava": "^1.0.1",
